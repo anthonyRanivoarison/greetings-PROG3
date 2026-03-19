@@ -30,6 +30,6 @@ Expected response:
 ```json
 {
   "id": 1,
-  "content": "Hello, Jean!"
+  "content": "Hello, Antonio!"
 }
 ```
