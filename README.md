@@ -33,11 +33,3 @@ Expected response:
   "content": "Hello, Jean!"
 }
 ```
-
----
-
-## Built with
-
-- Java 21
-- Spring Boot 3.x
-- Maven
